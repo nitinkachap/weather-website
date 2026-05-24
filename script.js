@@ -13,11 +13,11 @@ async function getWeather() {
         const weather = data.weather[0].description;
 
         document.getElementById("result").innerHTML =
-            `Temp: ${temp}°C <br>
-             Weather: ${weather} <br>
-             Humidity: ${humidity}%`;
+            `Temp 🌡️ : ${temp}°C <br><br>
+             Weather ☁️ : ${weather} <br><br>
+             Humidity 🌿 : ${humidity}%`; 
 
     } catch (error) {
-        document.getElementById("result").innerText = "Error fetching data";
+        document.getElementById("result").innerText = "Error , write an city name";
     }
 }
