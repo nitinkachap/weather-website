@@ -1,4 +1,3 @@
-<img width="983" height="510" alt="preview" src="https://github.com/user-attachments/assets/b8a83767-fec1-4414-9f17-8c0bdd4be158" />
 # 🌦️ Weather Website
 
 A simple weather app built using HTML, CSS, and JavaScript.
@@ -17,5 +16,7 @@ A simple weather app built using HTML, CSS, and JavaScript.
 - OpenWeather API
 
 ## 📸 Preview
+<img width="250" height="510" alt="preview" src="https://github.com/user-attachments/assets/b8a83767-fec1-4414-9f17-8c0bdd4be158" />
+
 
 ---
